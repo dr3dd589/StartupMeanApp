@@ -1,2 +1,2 @@
 # StartupMeanApp
-It is simple Authentication App in which i used Mongo,Node,Angular-4.
+It is simple secure Authentication/login/registration App in which i used Mongo,Node-js,Angular-4,express-js.
