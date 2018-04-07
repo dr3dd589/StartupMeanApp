@@ -1,1 +1,1 @@
-# StartupMeanApp
+# meanAuth

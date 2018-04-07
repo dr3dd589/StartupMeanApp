@@ -1,0 +1,27 @@
+
+.heythere{
+	float: left;
+	width: 40rem;
+}
+.container{
+	float: left;
+}
+#btn{
+	background-color: red;
+	border-radius: 3rem;
+	border: unset;
+}
+#btn1{
+	background-color: #5dabb7;
+	border-radius: 3rem;
+	border: unset;
+	margin-left: 45px;
+}
+#card-1{
+	box-shadow: 0 0px 28px rgba(0,0,0,0.25);
+	box-sizing: border-box;
+	margin-top: 30px;
+  }
+  #winner{
+	 
+  }
